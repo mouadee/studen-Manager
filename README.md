@@ -1,29 +1,10 @@
-# students
+# Students Manager
 
-## Project setup
+## Application for managing students one by one
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Classes + Student's Name + Student Id and much more
 ```
 
-### Compiles and minifies for production
+### Create & Add Student Delete Student Modify Student And more ...
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Read + Delete + Create + Update
